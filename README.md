@@ -13,15 +13,6 @@ Analysis Focus: Spike Detection, Media Resonance, and Categorical Trends.
 
 Reporting: Markdown for GitHub documentation and strategic summaries.
 
-⚙️ How to Run / View the Analysis
-Clone the Repository:
-
-Bash
-git clone https://github.com/your-username/twitter-performance-analysis.git
-View Dashboards: Navigate to the /dashboards folder to see the .png or .pdf exports of the visual reports.
-
-Review the Report: Open Twitter_Analysis_Report.md (or the README) for a full breakdown of the data insights and recommendations.
-
 📈 Key Insights
 The July Surge: Detected a massive engagement outlier in July 2020, reaching a peak of 4K likes.
 
@@ -39,6 +30,8 @@ Conversion Focus: Use Wednesdays for direct Calls to Action (CTAs) due to higher
 Profile Optimization: Ensure the "Pinned Tweet" is updated to capture the high volume of profile visitors.
 
 Re-engagement Strategy: Address the observed engagement decay in Q4 by replicating "July-style" content themes.
+
+dashboard link: https://app.powerbi.com/view?r=eyJrIjoiODVmMjAxMmQtNTBhZC00OGQzLTgxZmYtMjg0MDU5NjA3NWVjIiwidCI6IjJkYjZiYjEyLTVmYWMtNGQ4OS1hZDM1LWM3YTk4MDQ5OGVhNyJ9&pageName=9fd253771a2a304ae8d0
 
 📂 Repository Structure
 /dashboards: Visual representations (Images/PDFs) of the Twitter data.
