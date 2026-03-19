@@ -31,7 +31,7 @@ Profile Optimization: Ensure the "Pinned Tweet" is updated to capture the high v
 
 Re-engagement Strategy: Address the observed engagement decay in Q4 by replicating "July-style" content themes.
 
-dashboard link: https://app.powerbi.com/view?r=eyJrIjoiODVmMjAxMmQtNTBhZC00OGQzLTgxZmYtMjg0MDU5NjA3NWVjIiwidCI6IjJkYjZiYjEyLTVmYWMtNGQ4OS1hZDM1LWM3YTk4MDQ5OGVhNyJ9&pageName=9fd253771a2a304ae8d0
+dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMjlmZGNkYzAtMjdiMy00MTA0LWE3YjYtOThiYWYzMGQwNjI0IiwidCI6IjJkYjZiYjEyLTVmYWMtNGQ4OS1hZDM1LWM3YTk4MDQ5OGVhNyJ9&pageName=9fd253771a2a304ae8d0
 
 📂 Repository Structure
 /dashboards: Visual representations (Images/PDFs) of the Twitter data.
